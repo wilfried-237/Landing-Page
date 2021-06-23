@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.welcome{
+    background: url('image.jpg');
+    background-size: cover;
+    padding: 1px;
+    color: white;
+}
+.inner{
+    text-align: center;
+    margin: auto;
+    margin: 50px 50px 80px 50px;
+}
+button{
+    margin-top: 20px;
+    padding: 12px 35px;
+    background-color: #FF0000;
+    color: white;
+    border: 1px solid grey;
+    font-size: 1.2em;
+}
+
+.shell{
+    background-color: #111;
+    padding: 1px;
+}
+img{
+    width: 97%;
+    display: block;
+    margin: auto;
+}
+.web, .img, .app, .tech{
+    background-color: white;
+    width: 94%;
+    margin: auto;
+    padding: 50px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.app, .tech{
+    margin-top: 0px;
+}
+.margin{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.contact, .about{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    margin: auto;
+    color: white;
+}
+.contact{
+    background-color: blue;
+}
+.about{
+    background: #333;
+}
+.footer{
+    text-align: center;
+    background-color: #111;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
